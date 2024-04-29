@@ -1,4 +1,4 @@
-# PostgreSQL Queries Reference
+# PostgreSQL Queries 
 
 ## Overview
 This repository contains a collection of PostgreSQL queries executed on two databases, showcasing various SQL functionalities.
