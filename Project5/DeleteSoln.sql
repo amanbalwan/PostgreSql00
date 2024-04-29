@@ -1,0 +1,5 @@
+SELECT * FROM payment WHERE payment_id BETWEEN 17060 AND 17070;
+
+DELETE FROM payment
+WHERE payment_id IN (17064,17067)
+RETURNING *

@@ -1,0 +1,1 @@
+SELECT *,(SELECT MAX(amount) FROM payment)-amount as difference FROM payment

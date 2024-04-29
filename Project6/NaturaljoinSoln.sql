@@ -1,0 +1,2 @@
+SELECT * FROM payment
+NATURAL LEFT JOIN customer
